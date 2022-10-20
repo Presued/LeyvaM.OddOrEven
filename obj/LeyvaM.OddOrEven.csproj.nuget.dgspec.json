@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/manuel/Documents/LeyvaM.OddOrEven/LeyvaM.OddOrEven.csproj": {}
+    "C:\\Users\\Mark\\Downloads\\GitRepository\\LeyvaM.OddOrEven\\LeyvaM.OddOrEven.csproj": {}
   },
   "projects": {
-    "/Users/manuel/Documents/LeyvaM.OddOrEven/LeyvaM.OddOrEven.csproj": {
+    "C:\\Users\\Mark\\Downloads\\GitRepository\\LeyvaM.OddOrEven\\LeyvaM.OddOrEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/manuel/Documents/LeyvaM.OddOrEven/LeyvaM.OddOrEven.csproj",
+        "projectUniqueName": "C:\\Users\\Mark\\Downloads\\GitRepository\\LeyvaM.OddOrEven\\LeyvaM.OddOrEven.csproj",
         "projectName": "LeyvaM.OddOrEven",
-        "projectPath": "/Users/manuel/Documents/LeyvaM.OddOrEven/LeyvaM.OddOrEven.csproj",
-        "packagesPath": "/Users/manuel/.nuget/packages/",
-        "outputPath": "/Users/manuel/Documents/LeyvaM.OddOrEven/obj/",
+        "projectPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\LeyvaM.OddOrEven\\LeyvaM.OddOrEven.csproj",
+        "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\LeyvaM.OddOrEven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/manuel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
