@@ -1,0 +1,15 @@
+/Users/manuel/Documents/LeyvaM.OddOrEven/bin/Debug/net6.0/LeyvaM.OddOrEven
+/Users/manuel/Documents/LeyvaM.OddOrEven/bin/Debug/net6.0/LeyvaM.OddOrEven.deps.json
+/Users/manuel/Documents/LeyvaM.OddOrEven/bin/Debug/net6.0/LeyvaM.OddOrEven.runtimeconfig.json
+/Users/manuel/Documents/LeyvaM.OddOrEven/bin/Debug/net6.0/LeyvaM.OddOrEven.dll
+/Users/manuel/Documents/LeyvaM.OddOrEven/bin/Debug/net6.0/LeyvaM.OddOrEven.pdb
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/LeyvaM.OddOrEven.csproj.AssemblyReference.cache
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/LeyvaM.OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/LeyvaM.OddOrEven.AssemblyInfoInputs.cache
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/LeyvaM.OddOrEven.AssemblyInfo.cs
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/LeyvaM.OddOrEven.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/LeyvaM.OddOrEven.dll
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/refint/LeyvaM.OddOrEven.dll
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/LeyvaM.OddOrEven.pdb
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/LeyvaM.OddOrEven.genruntimeconfig.cache
+/Users/manuel/Documents/LeyvaM.OddOrEven/obj/Debug/net6.0/ref/LeyvaM.OddOrEven.dll
